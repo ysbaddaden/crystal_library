@@ -1,0 +1,4 @@
+*.o
+*.a
+/bc_flags
+/*_test
